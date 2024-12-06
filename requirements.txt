@@ -1,0 +1,11 @@
+numpy
+pandas 
+seaborn 
+textblob 
+matplotlib.pyplot 
+nltk
+statsmodels
+scipy
+sklearn
+itertools
+imblearn
